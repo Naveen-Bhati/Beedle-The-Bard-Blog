@@ -1,0 +1,21 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri": "mysql+pymysql://root:@localhost/Beedles",
+		"prod_uri":  "mysql+pymysql://root:@localhost/Beedles",
+		"fb_url":    "https://facebook.com/Beedles",
+		"tw_url":    "https://twitter.com/Beedles",
+		"gh_url":    "https://github.com/Beedles",
+		"blog_name": "Beedle the Bard",
+		"tag_line":  "by JK.Rowling",
+		"gmail-user": "naveenbhatii646@gmail.com",
+		"gmail-password": "Naveen@646",
+		"about_text": "so i m a potterhead & great fan of jk rowling",
+		"no_of_posts":3,
+		"login_img": "btb.svg",
+		"admin_user": "dumbledore",
+		"admin_password": "Dumbledore@646",
+		"upload_location": "//root//flask-projects//static//"
+	}
+}
